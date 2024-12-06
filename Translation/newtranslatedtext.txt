@@ -1,0 +1,13 @@
+1. AWS-Kleber: 
+ETL-Service 
+2. AWS-Schrittfunktionen: 
+Verwaltet die Schritte bei der Erstellung von ETL-Pipelines 
+ 
+GCP 
+1. Vertex AI: 
+plattform zur Verwaltung des ML-Lebenszyklus 
+2. BigQuery: 
+Verwaltet das Data Warehouse für groß angelegte DatenanalysenCloud-Funktionen: 
+3. Cloud-Speicher: 
+4. Kubeflow: 
+Verwalten von ML-Workflows auf Kubernetes.

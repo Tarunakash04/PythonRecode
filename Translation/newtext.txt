@@ -1,0 +1,14 @@
+1. AWS Glue: 
+ETL service 
+2. AWS Step Functions: 
+Manages the steps involved in creating ETL pipelines 
+ 
+GCP 
+1. Vertex AI: 
+platform for managing the ML lifecycle 
+2. BigQuery: 
+Manages data warehouse for large-scale data analyticsCloud Functions: 
+3. Cloud Storage: 
+4. Kubeflow: 
+Managing ML workflows on Kubernetes. 
+ 
